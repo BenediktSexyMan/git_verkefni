@@ -9,3 +9,14 @@
 		Prentar hver núverandi mappa er
 	mkdir
 		Býr til nýja möppu
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+		Afritar git repository
+	git log
+		Prentar öll commits hafa verið gerð //Mæli með að bæta við --pretty=oneline rofanum
+	git status
+		Hver staða verkefnissins er
+	git diff
+		Sýnir breytingar á milli commits
+	git checkout
+		Breytir um hvaða branch maður er staddur í
