@@ -32,3 +32,10 @@
 	Að vinna með fólki á milli tölva
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 	Eins oft og maður getur og það er ekki að hægja á "workflow" mans
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+	Working Directory:
+		Núverandi vinnusvæði
+	Staging Area:
+		Skrá sem geymir upplýsingar um verkefnið
+	Repository:
+		Verkefnis mappan
