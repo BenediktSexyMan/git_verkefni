@@ -30,3 +30,5 @@
 	Það geymir allar útgáfur af verkefni og leyfir manni að hoppa á milli þeirra
 5.	Hverjir eru helstu kostir við að nota GIT?
 	Að vinna með fólki á milli tölva
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	Eins oft og maður getur og það er ekki að hægja á "workflow" mans
