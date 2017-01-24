@@ -39,3 +39,5 @@
 		Skrá sem geymir upplýsingar um verkefnið
 	Repository:
 		Verkefnis mappan
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+	Þegar þú ert ekki viss um breytingar se mþú ætlar að gera
