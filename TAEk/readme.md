@@ -5,7 +5,7 @@
 	###ROM er minni sem er oft notað í nánu samræmi við vélbúnað tölvunar vegna þess hversu hægt og erfitt er að skrifa á það
 	
 #3. Hvað er fyrirbyggjandi viðhald?
-	
+	###Að viðhalda tölvunni sinni rétt
 #4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
 	
 #5. Hvað þarf að hafa í huga við val á spennugjöfum?
