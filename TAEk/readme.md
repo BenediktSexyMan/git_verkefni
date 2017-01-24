@@ -10,8 +10,7 @@
 	
 #6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 	
-#7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
-Nefnið dæmi um báðar gerðir af spurningum.
+#7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
 	
 #8. Hvað eru jaðartæki?
 	
