@@ -43,3 +43,5 @@
 	Þegar þú ert ekki viss um breytingar se mþú ætlar að gera
 9.	Hver fann upp GIT?
 	Linus Benedict Torvalds
+10.	Hvar er GIT helst notað?
+	Forritun og fleirri tölvutengd verkefni
