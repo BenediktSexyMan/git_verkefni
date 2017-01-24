@@ -41,3 +41,5 @@
 		Verkefnis mappan
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 	Þegar þú ert ekki viss um breytingar se mþú ætlar að gera
+9.	Hver fann upp GIT?
+	Linus Benedict Torvalds
