@@ -29,3 +29,16 @@
 ###	Outputs og Inputs, hlutir sem gers okkur kleyft að hafa samskipti við tölvunna
 #9. Nefndu þrjú dæmi um inntakstæki.
 ###	Lyklaborð, Mús Og Usb Tengi
+	
+#10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+|Íhlutur                |Gerð                   |Verð                   |Sölu Aðilli            |
+| --------------------- |:--------------------- | ---------------------:|:--------------------- |
+|Móðurborð              |Asus Z170-Pro Gaming   |27.855                 |att.is                 |
+|Aflgjafi               |Aerocool KCAS 800W     |14.500                 |Kísil Dalur            |
+|Örgjörvi               |Intel i7 6700K         |48.900                 |Tölvu Tækni            |
+|Minni                  |32GB DDR4              |29.900                 |Tölvu Tækni            |
+|Skjákort               |Geforce GTX 1070 8 GB  |66.900                 |computer.is            |
+|SSD                    |250 GB Samsung 750 EVO |15.900                 |Tölvu Tækni            |
+|Harður Diskur          |2 TB Samsung M9T 5400  |18.500                 |Kísil Dalur            |
+|Turn                   |Cooler Master Silencio |17.991                 |Tölvu Listinn          |
+|Niðurstaða		|Helvítið Flott Tölva	|440.446		|Benedikt Aron		|
