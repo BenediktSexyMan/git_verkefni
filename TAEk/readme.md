@@ -14,6 +14,12 @@
 ###	Spennugjafinn er folin með í huga hversu mikið afl móðurborðir þarf meðal annars
 	
 #6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+###	1. Skilgreina Vandamálið
+###	2. Koma upp með líklegustu gallana
+###	3. Geri prufur til þess að sjá hvort þau líklegustu séu vandamálið
+###	4. Koma með áætlun til þess að leysa vandann og finna lausninna
+###	5. Prufa hvort að kerfið virki ekki alveg örugglega eftir á og ef hægt reyna að koma í veg fyrir fyrirsjáanlega galle
+###	6. Skrá niður lausn og nótur þannig að þær gæti nýst við líku vandamáli ef ekki hinu sömu í framtíðinni
 	
 #7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
 	
