@@ -1,4 +1,3 @@
-
 #1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
 ###	Ram Stendur Fyrir Random Access Memory og er tölvuminni sem tekur jafn langan tíma að skrifa í eða lesa úr gögn óháð því hvaða minnisvistfang gögn eru sótt eða skrifuð í.
 	
@@ -28,3 +27,5 @@
 ###	**Líður þér vel** _VS_ **Hvernig líður þér**
 #8. Hvað eru jaðartæki?
 ###	Outputs og Inputs, hlutir sem gers okkur kleyft að hafa samskipti við tölvunna
+#9. Nefndu þrjú dæmi um inntakstæki.
+###	Lyklaborð, Mús Og Usb Tengi
