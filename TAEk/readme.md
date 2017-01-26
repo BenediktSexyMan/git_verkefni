@@ -11,6 +11,7 @@
 ###	Electrostatic discharge, að tengja sig við jörð
 
 #5. Hvað þarf að hafa í huga við val á spennugjöfum?
+###	Spennugjafinn er folin með í huga hversu mikið afl móðurborðir þarf meðal annars
 	
 #6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 	
