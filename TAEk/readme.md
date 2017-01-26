@@ -1,3 +1,4 @@
+
 #1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
 ###	Ram Stendur Fyrir Random Access Memory og er tölvuminni sem tekur jafn langan tíma að skrifa í eða lesa úr gögn óháð því hvaða minnisvistfang gögn eru sótt eða skrifuð í.
 	
@@ -26,8 +27,4 @@
 ###	Lokuð spurning er spurning sem að minnkar valkosti svarandas niður í svör ein og t.d. Já, Nei, A, B eða C
 ###	**Líður þér vel** _VS_ **Hvernig líður þér**
 #8. Hvað eru jaðartæki?
-	
-#9. Nefndu þrjú dæmi um inntakstæki.
-	
-#10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
-	
+###	Outputs og Inputs, hlutir sem gers okkur kleyft að hafa samskipti við tölvunna
