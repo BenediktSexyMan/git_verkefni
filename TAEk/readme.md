@@ -42,3 +42,5 @@
 |Harður Diskur          |2 TB Samsung M9T 5400  |18.500                 |Kísil Dalur            |
 |Turn                   |Cooler Master Silencio |17.991                 |Tölvu Listinn          |
 |Niðurstaða		|Helvítið Flott Tölva	|440.446		|Benedikt Aron		|
+
+[Photoshop](CompSoup.png)
