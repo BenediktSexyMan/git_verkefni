@@ -43,4 +43,4 @@
 |Turn                   |Cooler Master Silencio |17.991                 |Tölvu Listinn          |
 |Niðurstaða		|Helvítið Flott Tölva	|440.446		|Benedikt Aron		|
 
-[Photoshop](CompSoup.png)
+![Photoshop](CompSoup.png)
